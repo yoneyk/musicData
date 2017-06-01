@@ -5,4 +5,5 @@ if(password === pass){
   alert("correct, press ok to continue");
 }else{
   alert("wrong, try again");
+  window.location('www.google.com');
 }
